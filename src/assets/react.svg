@@ -1,0 +1,2 @@
+// Removed the reference to the missing 'react.svg' file and replaced it with an existing file 'vite.svg' from the public folder.
+import viteLogo from '/vite.svg';

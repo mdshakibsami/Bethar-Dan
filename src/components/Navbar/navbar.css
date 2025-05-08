@@ -1,0 +1,6 @@
+/* Updated to match the navbar gradient colors */
+.active {
+    border-bottom: 2px solid white; /* blue-600 */
+    color: #f4e7d3; /* light blue to match gradient */
+    font-weight: bold;
+}
