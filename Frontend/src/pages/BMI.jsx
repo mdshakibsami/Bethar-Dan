@@ -1,12 +1,12 @@
 import React from "react";
 import BmiCalculator from "../components/BMI/BmiCalculator";
-import BmiContents from "../components/BMI/bmiContents";
+import BmiContents from "../components/BMI/BmiContents";
 
 const BMI = () => {
   return (
     <>
-      <BmiContents></BmiContents>
       <BmiCalculator></BmiCalculator>
+      <BmiContents></BmiContents>
     </>
   );
 };
